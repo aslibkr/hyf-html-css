@@ -1,0 +1,31 @@
+body {
+    /* Let's use a different font for the whole body tag and its children. */
+    font-family: sans-serif;
+    margin: 20px;
+  }
+  
+  h1 {
+    /* These properties are for all h1 tags. */
+    font-size: 36px;
+    font-weight: bold;
+    text-align: center;
+  }
+
+  h3 {
+    /* These properties are for all h1 tags. */
+    font-size: 20px;
+    font-weight: bold;
+    text-align: left;
+  }
+  p {
+    /* These properties are for all p tags. */
+    font-size: 15px;
+    font-weight: normal;
+  
+    /* Let's set margins for p tags with the properties long form. */
+    margin-top: 0;
+    margin-right: 0;
+    margin-bottom: 1em;
+    margin-left: 0;
+  }
+  
